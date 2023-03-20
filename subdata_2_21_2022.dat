@@ -1,0 +1,1703 @@
+Database v1.0
+
+Entries: 338
+Types: 8
+                    'Itgb1 (mm)'              27
+                     'Ncad (mm)'             113
+                     'Ror2 (mm)'              50
+              'WT Proliferative'              72
+                    'WT Resting'              15
+                 'NICTD (mm-m+)'              50
+                 'NICTD (mm-m+)'              50
+                 'NICTD (m+-m+)'              11
+
+Entry: 1
+id: 814723686
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\07-18-19_Itgb1_mm\cell01.tif'
+
+Entry: 2
+id: 905791937
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\07-18-19_Itgb1_mm\cell02.tif'
+
+Entry: 3
+id: 126986816
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\07-18-19_Itgb1_mm\cell03.tif'
+
+Entry: 4
+id: 913375856
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\07-24-19_Itgb1_mm\cell01.tif'
+
+Entry: 5
+id: 632359246
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\07-24-19_Itgb1_mm\cell02.tif'
+
+Entry: 6
+id: 97540404
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\07-24-19_Itgb1_mm\cell03.tif'
+
+Entry: 7
+id: 278498218
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\07-24-19_Itgb1_mm\cell04.tif'
+
+Entry: 8
+id: 546881519
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\07-24-19_Itgb1_mm\cell05.tif'
+
+Entry: 9
+id: 957506835
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\07-24-19_Itgb1_mm\cell06.tif'
+
+Entry: 10
+id: 964888535
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\07-24-19_Itgb1_mm\cell07.tif'
+
+Entry: 11
+id: 157613081
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\07-24-19_Itgb1_mm\cell08.tif'
+
+Entry: 12
+id: 970592781
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\09-26-19_Itgb1_mm\cell01.tif'
+
+Entry: 13
+id: 957166948
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\09-26-19_Itgb1_mm\cell02.tif'
+
+Entry: 14
+id: 485375648
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\09-26-19_Itgb1_mm\cell03.tif'
+
+Entry: 15
+id: 800280468
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\09-26-19_Itgb1_mm\cell04.tif'
+
+Entry: 16
+id: 141886338
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\09-26-19_Itgb1_mm\cell05.tif'
+
+Entry: 17
+id: 421761282
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\09-26-19_Itgb1_mm\cell06.tif'
+
+Entry: 18
+id: 915735525
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\09-26-19_Itgb1_mm\cell07.tif'
+
+Entry: 19
+id: 792207329
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\09-26-19_Itgb1_mm\cell08.tif'
+
+Entry: 20
+id: 959492426
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\11-07-19_Itgb1_mm\cell01.tif'
+
+Entry: 21
+id: 655740699
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\11-08-19_Itgb1_mm\cell01.tif'
+
+Entry: 22
+id: 35711678
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\11-08-19_Itgb1_mm\cell02.tif'
+
+Entry: 23
+id: 849129305
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\11-08-19_Itgb1_mm\cell03.tif'
+
+Entry: 24
+id: 933993247
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\11-08-19_Itgb1_mm\cell04.tif'
+
+Entry: 25
+id: 678735154
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\11-08-19_Itgb1_mm\cell05.tif'
+
+Entry: 26
+id: 757740130
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\11-08-19_Itgb1_mm\cell06.tif'
+
+Entry: 27
+id: 743132468
+type: 'Itgb1 (mm)'
+path: '.\Itgb1 (mm)\11-08-19_Itgb1_mm\cell07.tif'
+
+Entry: 28
+id: 392227019
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\01-04-21_Ncad_mm\cell01.tif'
+
+Entry: 29
+id: 655477890
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\01-04-21_Ncad_mm\cell02.tif'
+
+Entry: 30
+id: 171186687
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\01-04-21_Ncad_mm\cell03.tif'
+
+Entry: 31
+id: 706046088
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\01-04-21_Ncad_mm\cell04.tif'
+
+Entry: 32
+id: 31832846
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\01-04-21_Ncad_mm\cell05.tif'
+
+Entry: 33
+id: 276922984
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\01-04-21_Ncad_mm\cell06.tif'
+
+Entry: 34
+id: 46171390
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\01-04-21_Ncad_mm\cell07.tif'
+
+Entry: 35
+id: 97131781
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\01-04-21_Ncad_mm\cell08.tif'
+
+Entry: 36
+id: 823457828
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\01-04-21_Ncad_mm\cell09.tif'
+
+Entry: 37
+id: 694828622
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\01-04-21_Ncad_mm\cell10.tif'
+
+Entry: 38
+id: 317099480
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\01-04-21_Ncad_mm\cell11.tif'
+
+Entry: 39
+id: 950222048
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\01-04-21_Ncad_mm\cell12.tif'
+
+Entry: 40
+id: 34446080
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\01-04-21_Ncad_mm\cell13.tif'
+
+Entry: 41
+id: 438744359
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\01-04-21_Ncad_mm\cell14.tif'
+
+Entry: 42
+id: 381558457
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\03-15-21_Ncad_mm\cell01.tif'
+
+Entry: 43
+id: 765516788
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\03-15-21_Ncad_mm\cell02.tif'
+
+Entry: 44
+id: 795199901
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\03-15-21_Ncad_mm\cell03.tif'
+
+Entry: 45
+id: 186872604
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\03-15-21_Ncad_mm\cell04.tif'
+
+Entry: 46
+id: 489764395
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\03-15-21_Ncad_mm\cell05.tif'
+
+Entry: 47
+id: 445586200
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\03-15-21_Ncad_mm\cell06.tif'
+
+Entry: 48
+id: 646313010
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\03-15-21_Ncad_mm\cell07.tif'
+
+Entry: 49
+id: 709364830
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\03-15-21_Ncad_mm\cell08.tif'
+
+Entry: 50
+id: 754686681
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\03-15-21_Ncad_mm\cell09.tif'
+
+Entry: 51
+id: 276025076
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\03-15-21_Ncad_mm\cell10.tif'
+
+Entry: 52
+id: 679702676
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\03-15-21_Ncad_mm\cell11.tif'
+
+Entry: 53
+id: 655098003
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\03-15-21_Ncad_mm\cell12.tif'
+
+Entry: 54
+id: 162611735
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\03-15-21_Ncad_mm\cell13.tif'
+
+Entry: 55
+id: 118997681
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\04-12-21_Ncad_mm\cell01.tif'
+
+Entry: 56
+id: 498364051
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\04-12-21_Ncad_mm\cell02.tif'
+
+Entry: 57
+id: 959743958
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\04-12-21_Ncad_mm\cell03.tif'
+
+Entry: 58
+id: 340385726
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\04-12-21_Ncad_mm\cell04.tif'
+
+Entry: 59
+id: 585267750
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\04-12-21_Ncad_mm\cell05.tif'
+
+Entry: 60
+id: 223811939
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\04-12-21_Ncad_mm\cell06.tif'
+
+Entry: 61
+id: 751267059
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\04-12-21_Ncad_mm\cell07.tif'
+
+Entry: 62
+id: 255095115
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\04-12-21_Ncad_mm\cell08.tif'
+
+Entry: 63
+id: 505957051
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\04-12-21_Ncad_mm\cell09.tif'
+
+Entry: 64
+id: 699076722
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\04-12-21_Ncad_mm\cell10.tif'
+
+Entry: 65
+id: 890903252
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\04-12-21_Ncad_mm\cell11.tif'
+
+Entry: 66
+id: 959291425
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\04-12-21_Ncad_mm\cell12.tif'
+
+Entry: 67
+id: 547215529
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\04-12-21_Ncad_mm\cell13.tif'
+
+Entry: 68
+id: 138624442
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\04-12-21_Ncad_mm\cell14.tif'
+
+Entry: 69
+id: 149294005
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\04-12-21_Ncad_mm\cell15.tif'
+
+Entry: 70
+id: 257508254
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\04-12-21_Ncad_mm\cell16.tif'
+
+Entry: 71
+id: 840717255
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\04-12-21_Ncad_mm\cell17.tif'
+
+Entry: 72
+id: 254282178
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\05-10-21_Ncad_mm\cell01.tif'
+
+Entry: 73
+id: 814284826
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\05-10-21_Ncad_mm\cell02.tif'
+
+Entry: 74
+id: 243524968
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\05-10-21_Ncad_mm\cell03.tif'
+
+Entry: 75
+id: 929263623
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\05-10-21_Ncad_mm\cell04.tif'
+
+Entry: 76
+id: 349983765
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\05-10-21_Ncad_mm\cell05.tif'
+
+Entry: 77
+id: 196595250
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\05-10-21_Ncad_mm\cell06.tif'
+
+Entry: 78
+id: 251083857
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\05-10-21_Ncad_mm\cell07.tif'
+
+Entry: 79
+id: 616044676
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\05-10-21_Ncad_mm\cell08.tif'
+
+Entry: 80
+id: 473288848
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\05-10-21_Ncad_mm\cell09.tif'
+
+Entry: 81
+id: 351659507
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\05-10-21_Ncad_mm\cell10.tif'
+
+Entry: 82
+id: 830828627
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\05-10-21_Ncad_mm\cell11.tif'
+
+Entry: 83
+id: 585264091
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\05-10-21_Ncad_mm\cell12.tif'
+
+Entry: 84
+id: 549723608
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\05-10-21_Ncad_mm\cell13.tif'
+
+Entry: 85
+id: 917193663
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\05-10-21_Ncad_mm\cell14.tif'
+
+Entry: 86
+id: 285839018
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\05-10-21_Ncad_mm\cell15.tif'
+
+Entry: 87
+id: 757200229
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\05-10-21_Ncad_mm\cell16.tif'
+
+Entry: 88
+id: 753729094
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\05-10-21_Ncad_mm\cell17.tif'
+
+Entry: 89
+id: 380445846
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\05-10-21_Ncad_mm\cell18.tif'
+
+Entry: 90
+id: 567821640
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\05-10-21_Ncad_mm\cell19.tif'
+
+Entry: 91
+id: 75854289
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\05-10-21_Ncad_mm\cell20.tif'
+
+Entry: 92
+id: 53950118
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\06-01-20_Ncad_mm\cell01.tif'
+
+Entry: 93
+id: 530797553
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\06-01-20_Ncad_mm\cell02.tif'
+
+Entry: 94
+id: 779167230
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\06-01-20_Ncad_mm\cell03.tif'
+
+Entry: 95
+id: 934010684
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\06-01-20_Ncad_mm\cell04.tif'
+
+Entry: 96
+id: 129906208
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\06-01-20_Ncad_mm\cell05.tif'
+
+Entry: 97
+id: 568823660
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\06-01-20_Ncad_mm\cell06.tif'
+
+Entry: 98
+id: 469390641
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\06-01-20_Ncad_mm\cell07.tif'
+
+Entry: 99
+id: 11902069
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\06-01-20_Ncad_mm\cell08.tif'
+
+Entry: 100
+id: 337122644
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\06-01-20_Ncad_mm\cell09.tif'
+
+Entry: 101
+id: 162182308
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\06-01-20_Ncad_mm\cell10.tif'
+
+Entry: 102
+id: 794284540
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\06-01-20_Ncad_mm\cell11.tif'
+
+Entry: 103
+id: 311215042
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\06-01-20_Ncad_mm\cell12.tif'
+
+Entry: 104
+id: 528533135
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\06-01-20_Ncad_mm\cell13.tif'
+
+Entry: 105
+id: 165648729
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\06-01-20_Ncad_mm\cell14.tif'
+
+Entry: 106
+id: 601981941
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\06-01-20_Ncad_mm\cell15.tif'
+
+Entry: 107
+id: 262971284
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\06-01-20_Ncad_mm\cell16.tif'
+
+Entry: 108
+id: 654079098
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\06-01-20_Ncad_mm\cell17.tif'
+
+Entry: 109
+id: 689214503
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\08-10-20_Ncad_mm\cell01.tif'
+
+Entry: 110
+id: 748151592
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\08-10-20_Ncad_mm\cell02.tif'
+
+Entry: 111
+id: 450541598
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\08-10-20_Ncad_mm\cell03.tif'
+
+Entry: 112
+id: 83821377
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\08-10-20_Ncad_mm\cell04.tif'
+
+Entry: 113
+id: 228976968
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\08-10-20_Ncad_mm\cell05.tif'
+
+Entry: 114
+id: 913337361
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\08-10-20_Ncad_mm\cell06.tif'
+
+Entry: 115
+id: 152378018
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\08-10-20_Ncad_mm\cell07.tif'
+
+Entry: 116
+id: 825816977
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\08-10-20_Ncad_mm\cell08.tif'
+
+Entry: 117
+id: 538342435
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\08-10-20_Ncad_mm\cell09.tif'
+
+Entry: 118
+id: 996134716
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\08-10-20_Ncad_mm\cell10.tif'
+
+Entry: 119
+id: 78175528
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\08-10-20_Ncad_mm\cell11.tif'
+
+Entry: 120
+id: 442678269
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\08-10-20_Ncad_mm\cell12.tif'
+
+Entry: 121
+id: 106652770
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\08-10-20_Ncad_mm\cell13.tif'
+
+Entry: 122
+id: 961898080
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\08-10-20_Ncad_mm\cell14.tif'
+
+Entry: 123
+id: 4634224
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\08-10-20_Ncad_mm\cell15.tif'
+
+Entry: 124
+id: 774910464
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\08-10-20_Ncad_mm\cell16.tif'
+
+Entry: 125
+id: 817303220
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\08-10-20_Ncad_mm\cell17.tif'
+
+Entry: 126
+id: 868694705
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\08-10-20_Ncad_mm\cell18.tif'
+
+Entry: 127
+id: 84435845
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\08-10-20_Ncad_mm\cell19.tif'
+
+Entry: 128
+id: 399782649
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\08-10-20_Ncad_mm\cell20.tif'
+
+Entry: 129
+id: 259870402
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\08-10-20_Ncad_mm\cell21.tif'
+
+Entry: 130
+id: 800068480
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\12-14-20_Ncad_mm\cell01.tif'
+
+Entry: 131
+id: 431413827
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\12-14-20_Ncad_mm\cell02.tif'
+
+Entry: 132
+id: 910647594
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\12-14-20_Ncad_mm\cell03.tif'
+
+Entry: 133
+id: 181847028
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\12-14-20_Ncad_mm\cell04.tif'
+
+Entry: 134
+id: 263802916
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\12-14-20_Ncad_mm\cell05.tif'
+
+Entry: 135
+id: 145538980
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\12-14-20_Ncad_mm\cell06.tif'
+
+Entry: 136
+id: 136068558
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\12-14-20_Ncad_mm\cell07.tif'
+
+Entry: 137
+id: 869292207
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\12-14-20_Ncad_mm\cell08.tif'
+
+Entry: 138
+id: 579704587
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\12-14-20_Ncad_mm\cell09.tif'
+
+Entry: 139
+id: 549860201
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\12-14-20_Ncad_mm\cell10.tif'
+
+Entry: 140
+id: 144954798
+type: 'Ncad (mm)'
+path: '.\Ncad (mm)\12-14-20_Ncad_mm\cell11.tif'
+
+Entry: 141
+id: 296320805
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\02-22-21_Ror2_mm\cell01.tif'
+
+Entry: 142
+id: 744692807
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\02-22-21_Ror2_mm\cell02.tif'
+
+Entry: 143
+id: 188955015
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\02-22-21_Ror2_mm\cell03.tif'
+
+Entry: 144
+id: 686775433
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\02-22-21_Ror2_mm\cell04.tif'
+
+Entry: 145
+id: 183511155
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\02-22-21_Ror2_mm\cell05.tif'
+
+Entry: 146
+id: 368484596
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\02-22-21_Ror2_mm\cell06.tif'
+
+Entry: 147
+id: 625618560
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\02-22-21_Ror2_mm\cell07.tif'
+
+Entry: 148
+id: 780227435
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\05-31-20_Ror2_mm\cell01.tif'
+
+Entry: 149
+id: 81125768
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\05-31-20_Ror2_mm\cell02.tif'
+
+Entry: 150
+id: 929385970
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\05-31-20_Ror2_mm\cell03.tif'
+
+Entry: 151
+id: 775712678
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\05-31-20_Ror2_mm\cell04.tif'
+
+Entry: 152
+id: 486791632
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\05-31-20_Ror2_mm\cell05.tif'
+
+Entry: 153
+id: 435858588
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\05-31-20_Ror2_mm\cell06.tif'
+
+Entry: 154
+id: 446783749
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\05-31-20_Ror2_mm\cell07.tif'
+
+Entry: 155
+id: 306349472
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\07-06-20_Ror2_mm\cell01.tif'
+
+Entry: 156
+id: 508508655
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\07-06-20_Ror2_mm\cell02.tif'
+
+Entry: 157
+id: 510771564
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\07-06-20_Ror2_mm\cell03.tif'
+
+Entry: 158
+id: 817627708
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\07-06-20_Ror2_mm\cell04.tif'
+
+Entry: 159
+id: 794831416
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\07-06-20_Ror2_mm\cell05.tif'
+
+Entry: 160
+id: 644318130
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\07-06-20_Ror2_mm\cell06.tif'
+
+Entry: 161
+id: 378609382
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\07-06-20_Ror2_mm\cell07.tif'
+
+Entry: 162
+id: 811580458
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\07-06-20_Ror2_mm\cell08.tif'
+
+Entry: 163
+id: 532825588
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\07-06-20_Ror2_mm\cell09.tif'
+
+Entry: 164
+id: 350727103
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\07-06-20_Ror2_mm\cell10.tif'
+
+Entry: 165
+id: 939001561
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\11-23-20_Ror2_mm\cell01.tif'
+
+Entry: 166
+id: 875942811
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\11-23-20_Ror2_mm\cell02.tif'
+
+Entry: 167
+id: 550156342
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\11-23-20_Ror2_mm\cell03.tif'
+
+Entry: 168
+id: 622475086
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\11-23-20_Ror2_mm\cell04.tif'
+
+Entry: 169
+id: 587044704
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\11-23-20_Ror2_mm\cell05.tif'
+
+Entry: 170
+id: 207742292
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\11-30-20_Ror2_mm\cell01.tif'
+
+Entry: 171
+id: 301246330
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\11-30-20_Ror2_mm\cell02.tif'
+
+Entry: 172
+id: 470923348
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\11-30-20_Ror2_mm\cell03.tif'
+
+Entry: 173
+id: 230488160
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\11-30-20_Ror2_mm\cell04.tif'
+
+Entry: 174
+id: 844308792
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\11-30-20_Ror2_mm\cell05.tif'
+
+Entry: 175
+id: 194764289
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\11-30-20_Ror2_mm\cell06.tif'
+
+Entry: 176
+id: 225921780
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\11-30-20_Ror2_mm\cell07.tif'
+
+Entry: 177
+id: 170708047
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\11-30-20_Ror2_mm\cell08.tif'
+
+Entry: 178
+id: 227664297
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\11-30-20_Ror2_mm\cell09.tif'
+
+Entry: 179
+id: 435698684
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\11-30-20_Ror2_mm\cell10.tif'
+
+Entry: 180
+id: 311102286
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\11-30-20_Ror2_mm\cell11.tif'
+
+Entry: 181
+id: 923379642
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\11-30-20_Ror2_mm\cell12.tif'
+
+Entry: 182
+id: 430207391
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\11-30-20_Ror2_mm\cell13.tif'
+
+Entry: 183
+id: 184816320
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\11-30-20_Ror2_mm\cell14.tif'
+
+Entry: 184
+id: 904880968
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\11-30-20_Ror2_mm\cell15.tif'
+
+Entry: 185
+id: 979748378
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\11-30-20_Ror2_mm\cell16.tif'
+
+Entry: 186
+id: 438869973
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\11-30-20_Ror2_mm\cell17.tif'
+
+Entry: 187
+id: 111119223
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\11-30-20_Ror2_mm\cell18.tif'
+
+Entry: 188
+id: 258064695
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\11-30-20_Ror2_mm\cell19.tif'
+
+Entry: 189
+id: 408719846
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\11-30-20_Ror2_mm\cell20.tif'
+
+Entry: 190
+id: 594896074
+type: 'Ror2 (mm)'
+path: '.\Ror2 (mm)\11-30-20_Ror2_mm\cell21.tif'
+
+Entry: 191
+id: 96730025
+type: 'WT Proliferative'
+path: '.\WT Proliferative\05-17-19_WT\cell01.tif'
+
+Entry: 192
+id: 818148553
+type: 'WT Proliferative'
+path: '.\WT Proliferative\05-17-19_WT\cell02.tif'
+
+Entry: 193
+id: 817547092
+type: 'WT Proliferative'
+path: '.\WT Proliferative\05-17-19_WT\cell03.tif'
+
+Entry: 194
+id: 722439592
+type: 'WT Proliferative'
+path: '.\WT Proliferative\05-17-19_WT\cell04.tif'
+
+Entry: 195
+id: 149865442
+type: 'WT Proliferative'
+path: '.\WT Proliferative\05-17-19_WT\cell05.tif'
+
+Entry: 196
+id: 659605252
+type: 'WT Proliferative'
+path: '.\WT Proliferative\05-17-19_WT\cell06.tif'
+
+Entry: 197
+id: 518594942
+type: 'WT Proliferative'
+path: '.\WT Proliferative\07-05-19_WT\cell01.tif'
+
+Entry: 198
+id: 972974554
+type: 'WT Proliferative'
+path: '.\WT Proliferative\07-05-19_WT\cell02.tif'
+
+Entry: 199
+id: 648991492
+type: 'WT Proliferative'
+path: '.\WT Proliferative\07-05-19_WT\cell03.tif'
+
+Entry: 200
+id: 800330575
+type: 'WT Proliferative'
+path: '.\WT Proliferative\07-05-19_WT\cell04.tif'
+
+Entry: 201
+id: 453797708
+type: 'WT Proliferative'
+path: '.\WT Proliferative\07-05-19_WT\cell05.tif'
+
+Entry: 202
+id: 432391503
+type: 'WT Proliferative'
+path: '.\WT Proliferative\07-05-19_WT\cell06.tif'
+
+Entry: 203
+id: 825313795
+type: 'WT Proliferative'
+path: '.\WT Proliferative\10-03-19_WT\cell01.tif'
+
+Entry: 204
+id: 83469814
+type: 'WT Proliferative'
+path: '.\WT Proliferative\10-03-19_WT\cell02.tif'
+
+Entry: 205
+id: 133171007
+type: 'WT Proliferative'
+path: '.\WT Proliferative\10-03-19_WT\cell03.tif'
+
+Entry: 206
+id: 173388613
+type: 'WT Proliferative'
+path: '.\WT Proliferative\10-04-19_WT\cell01.tif'
+
+Entry: 207
+id: 390937802
+type: 'WT Proliferative'
+path: '.\WT Proliferative\10-04-19_WT\cell02.tif'
+
+Entry: 208
+id: 831379742
+type: 'WT Proliferative'
+path: '.\WT Proliferative\10-04-19_WT\cell03.tif'
+
+Entry: 209
+id: 803364391
+type: 'WT Proliferative'
+path: '.\WT Proliferative\10-04-19_WT\cell04.tif'
+
+Entry: 210
+id: 60471179
+type: 'WT Proliferative'
+path: '.\WT Proliferative\10-04-19_WT\cell05.tif'
+
+Entry: 211
+id: 399257770
+type: 'WT Proliferative'
+path: '.\WT Proliferative\10-04-19_WT\cell06.tif'
+
+Entry: 212
+id: 526875830
+type: 'WT Proliferative'
+path: '.\WT Proliferative\10-04-19_WT\cell07.tif'
+
+Entry: 213
+id: 416799467
+type: 'WT Proliferative'
+path: '.\WT Proliferative\10-04-19_WT\cell08.tif'
+
+Entry: 214
+id: 656859890
+type: 'WT Proliferative'
+path: '.\WT Proliferative\10-04-19_WT\cell09.tif'
+
+Entry: 215
+id: 627973359
+type: 'WT Proliferative'
+path: '.\WT Proliferative\10-04-19_WT\cell10.tif'
+
+Entry: 216
+id: 281626628
+type: 'WT Proliferative'
+path: '.\WT Proliferative\07-26-21_WT_cells\cell01.tif'
+
+Entry: 217
+id: 904771010
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-02-21_WT_cells\cell01.tif'
+
+Entry: 218
+id: 702675221
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-02-21_WT_cells\cell02.tif'
+
+Entry: 219
+id: 853055727
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-02-21_WT_cells\cell03.tif'
+
+Entry: 220
+id: 378683694
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-02-21_WT_cells\cell04.tif'
+
+Entry: 221
+id: 633021630
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-02-21_WT_cells\cell05.tif'
+
+Entry: 222
+id: 31556842
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-02-21_WT_cells\cell06.tif'
+
+Entry: 223
+id: 920033538
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-02-21_WT_cells\cell07.tif'
+
+Entry: 224
+id: 469746884
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-02-21_WT_cells\cell08.tif'
+
+Entry: 225
+id: 519903186
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-09-21_WT_cells\cell01.tif'
+
+Entry: 226
+id: 766312112
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-09-21_WT_cells\cell02.tif'
+
+Entry: 227
+id: 336216599
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-09-21_WT_cells\cell03.tif'
+
+Entry: 228
+id: 625985120
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-09-21_WT_cells\cell04.tif'
+
+Entry: 229
+id: 326902007
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-09-21_WT_cells\cell05.tif'
+
+Entry: 230
+id: 311106848
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-09-21_WT_cells\cell06.tif'
+
+Entry: 231
+id: 646078397
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-09-21_WT_cells\cell07.tif'
+
+Entry: 232
+id: 433691632
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-09-21_WT_cells\cell08.tif'
+
+Entry: 233
+id: 102886548
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-09-21_WT_cells\cell09.tif'
+
+Entry: 234
+id: 236150966
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-09-21_WT_cells\cell10.tif'
+
+Entry: 235
+id: 971782795
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-23-21_WT_cells\cell01.tif'
+
+Entry: 236
+id: 698897416
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-23-21_WT_cells\cell02.tif'
+
+Entry: 237
+id: 659450255
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-23-21_WT_cells\cell03.tif'
+
+Entry: 238
+id: 326097341
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-23-21_WT_cells\cell04.tif'
+
+Entry: 239
+id: 19821917
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-23-21_WT_cells\cell05.tif'
+
+Entry: 240
+id: 570472591
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-23-21_WT_cells\cell06.tif'
+
+Entry: 241
+id: 36334901
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-23-21_WT_cells\cell07.tif'
+
+Entry: 242
+id: 264742744
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-23-21_WT_cells\cell08.tif'
+
+Entry: 243
+id: 190658434
+type: 'WT Proliferative'
+path: '.\WT Proliferative\08-23-21_WT_cells\cell09.tif'
+
+Entry: 244
+id: 449299624
+type: 'WT Proliferative'
+path: '.\WT Proliferative\09-26-21_WT_cells\cell01.tif'
+
+Entry: 245
+id: 768655178
+type: 'WT Proliferative'
+path: '.\WT Proliferative\09-26-21_WT_cells\cell02.tif'
+
+Entry: 246
+id: 627936197
+type: 'WT Proliferative'
+path: '.\WT Proliferative\09-26-21_WT_cells\cell03.tif'
+
+Entry: 247
+id: 314700292
+type: 'WT Proliferative'
+path: '.\WT Proliferative\09-26-21_WT_cells\cell04.tif'
+
+Entry: 248
+id: 292043134
+type: 'WT Proliferative'
+path: '.\WT Proliferative\09-26-21_WT_cells\cell05.tif'
+
+Entry: 249
+id: 78237988
+type: 'WT Proliferative'
+path: '.\WT Proliferative\09-26-21_WT_cells\cell06.tif'
+
+Entry: 250
+id: 171943833
+type: 'WT Proliferative'
+path: '.\WT Proliferative\09-26-21_WT_cells\cell07.tif'
+
+Entry: 251
+id: 721280345
+type: 'WT Proliferative'
+path: '.\WT Proliferative\09-26-21_WT_cells\cell08.tif'
+
+Entry: 252
+id: 89448586
+type: 'WT Proliferative'
+path: '.\WT Proliferative\09-26-21_WT_cells\cell09.tif'
+
+Entry: 253
+id: 917812202
+type: 'WT Proliferative'
+path: '.\WT Proliferative\09-26-21_WT_cells\cell10.tif'
+
+Entry: 254
+id: 117492852
+type: 'WT Proliferative'
+path: '.\WT Proliferative\02-07-2022_WT\cell01.tif'
+
+Entry: 255
+id: 640717922
+type: 'WT Proliferative'
+path: '.\WT Proliferative\02-07-2022_WT\cell02.tif'
+
+Entry: 256
+id: 328814214
+type: 'WT Proliferative'
+path: '.\WT Proliferative\02-07-2022_WT\cell03.tif'
+
+Entry: 257
+id: 653812022
+type: 'WT Proliferative'
+path: '.\WT Proliferative\02-07-2022_WT\cell04.tif'
+
+Entry: 258
+id: 749131463
+type: 'WT Proliferative'
+path: '.\WT Proliferative\02-07-2022_WT\cell05.tif'
+
+Entry: 259
+id: 583185731
+type: 'WT Proliferative'
+path: '.\WT Proliferative\02-07-2022_WT\cell06.tif'
+
+Entry: 260
+id: 740032327
+type: 'WT Proliferative'
+path: '.\WT Proliferative\02-07-2022_WT\cell07.tif'
+
+Entry: 261
+id: 234826914
+type: 'WT Proliferative'
+path: '.\WT Proliferative\02-07-2022_WT\cell08.tif'
+
+Entry: 262
+id: 734957541
+type: 'WT Proliferative'
+path: '.\WT Proliferative\02-07-2022_WT\cell09.tif'
+
+Entry: 263
+id: 291984079
+type: 'WT Resting'
+path: '.\WT Resting\05-17-19_WT\cell01.tif'
+
+Entry: 264
+id: 431651170
+type: 'WT Resting'
+path: '.\WT Resting\05-17-19_WT\cell02.tif'
+
+Entry: 265
+id: 15487125
+type: 'WT Resting'
+path: '.\WT Resting\05-17-19_WT\cell03.tif'
+
+Entry: 266
+id: 984063724
+type: 'WT Resting'
+path: '.\WT Resting\05-17-19_WT\cell04.tif'
+
+Entry: 267
+id: 167168409
+type: 'WT Resting'
+path: '.\WT Resting\05-17-19_WT\cell05.tif'
+
+Entry: 268
+id: 106216344
+type: 'WT Resting'
+path: '.\WT Resting\05-17-19_WT\cell06.tif'
+
+Entry: 269
+id: 372409740
+type: 'WT Resting'
+path: '.\WT Resting\05-17-19_WT\cell07.tif'
+
+Entry: 270
+id: 198118402
+type: 'WT Resting'
+path: '.\WT Resting\05-17-19_WT\cell07_orig.tif'
+
+Entry: 271
+id: 489687638
+type: 'WT Resting'
+path: '.\WT Resting\05-17-19_WT\cell08_orig.tif'
+
+Entry: 272
+id: 339493413
+type: 'WT Resting'
+path: '.\WT Resting\05-17-19_WT\cell09_orig.tif'
+
+Entry: 273
+id: 951630464
+type: 'WT Resting'
+path: '.\WT Resting\07-05-19_WT\cell07.tif'
+
+Entry: 274
+id: 920332039
+type: 'WT Resting'
+path: '.\WT Resting\10-03-19_WT\cell01.tif'
+
+Entry: 275
+id: 52676997
+type: 'WT Resting'
+path: '.\WT Resting\10-04-19_WT\cell01.tif'
+
+Entry: 276
+id: 737858095
+type: 'WT Resting'
+path: '.\WT Resting\10-04-19_WT\cell03.tif'
+
+Entry: 277
+id: 269119426
+type: 'WT Resting'
+path: '.\WT Resting\10-04-19_WT\cell04.tif'
+
+Entry: 278
+id: 166890722
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-11-21_NICTD_mm-m+\cell01.tif'
+
+Entry: 279
+id: 188092073
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-11-21_NICTD_mm-m+\cell02.tif'
+
+Entry: 280
+id: 94628869
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-11-21_NICTD_mm-m+\cell03.tif'
+
+Entry: 281
+id: 323186272
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-11-21_NICTD_mm-m+\cell04.tif'
+
+Entry: 282
+id: 769596929
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-11-21_NICTD_mm-m+\cell05.tif'
+
+Entry: 283
+id: 234118002
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-11-21_NICTD_mm-m+\cell06.tif'
+
+Entry: 284
+id: 740365469
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-11-21_NICTD_mm-m+\cell07.tif'
+
+Entry: 285
+id: 692818413
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-11-21_NICTD_mm-m+\cell08.tif'
+
+Entry: 286
+id: 824078213
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-11-21_NICTD_mm-m+\cell09.tif'
+
+Entry: 287
+id: 827977549
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-11-21_NICTD_mm-m+\cell10.tif'
+
+Entry: 288
+id: 431218447
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\01-25-2022_NICTD_mm-m+\cell01.tif'
+
+Entry: 289
+id: 702530011
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\01-25-2022_NICTD_mm-m+\cell02.tif'
+
+Entry: 290
+id: 402329867
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\01-25-2022_NICTD_mm-m+\cell03.tif'
+
+Entry: 291
+id: 181840078
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\01-25-2022_NICTD_mm-m+\cell04.tif'
+
+Entry: 292
+id: 856251116
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\01-25-2022_NICTD_mm-m+\cell05.tif'
+
+Entry: 293
+id: 136651521
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-29-2021_NICTD_mm-m+\cell01.tif'
+
+Entry: 294
+id: 858402188
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-29-2021_NICTD_mm-m+\cell02.tif'
+
+Entry: 295
+id: 199834124
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-29-2021_NICTD_mm-m+\cell03.tif'
+
+Entry: 296
+id: 607339921
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-29-2021_NICTD_mm-m+\cell04.tif'
+
+Entry: 297
+id: 543044983
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-29-2021_NICTD_mm-m+\cell05.tif'
+
+Entry: 298
+id: 162324692
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-29-2021_NICTD_mm-m+\cell06.tif'
+
+Entry: 299
+id: 5653068
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-29-2021_NICTD_mm-m+\cell07.tif'
+
+Entry: 300
+id: 771485147
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-29-2021_NICTD_mm-m+\cell08.tif'
+
+Entry: 301
+id: 344462411
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\11-08-2021_NICTD_mm-m+\cell01.tif'
+
+Entry: 302
+id: 780519652
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\11-08-2021_NICTD_mm-m+\cell02.tif'
+
+Entry: 303
+id: 166890722
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-11-21_NICTD_mm-m+\cell01.tif'
+
+Entry: 304
+id: 188092073
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-11-21_NICTD_mm-m+\cell02.tif'
+
+Entry: 305
+id: 94628869
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-11-21_NICTD_mm-m+\cell03.tif'
+
+Entry: 306
+id: 323186272
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-11-21_NICTD_mm-m+\cell04.tif'
+
+Entry: 307
+id: 769596929
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-11-21_NICTD_mm-m+\cell05.tif'
+
+Entry: 308
+id: 234118002
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-11-21_NICTD_mm-m+\cell06.tif'
+
+Entry: 309
+id: 740365469
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-11-21_NICTD_mm-m+\cell07.tif'
+
+Entry: 310
+id: 692818413
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-11-21_NICTD_mm-m+\cell08.tif'
+
+Entry: 311
+id: 824078213
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-11-21_NICTD_mm-m+\cell09.tif'
+
+Entry: 312
+id: 827977549
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-11-21_NICTD_mm-m+\cell10.tif'
+
+Entry: 313
+id: 431218447
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\01-25-2022_NICTD_mm-m+\cell01.tif'
+
+Entry: 314
+id: 702530011
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\01-25-2022_NICTD_mm-m+\cell02.tif'
+
+Entry: 315
+id: 402329867
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\01-25-2022_NICTD_mm-m+\cell03.tif'
+
+Entry: 316
+id: 181840078
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\01-25-2022_NICTD_mm-m+\cell04.tif'
+
+Entry: 317
+id: 856251116
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\01-25-2022_NICTD_mm-m+\cell05.tif'
+
+Entry: 318
+id: 136651521
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-29-2021_NICTD_mm-m+\cell01.tif'
+
+Entry: 319
+id: 858402188
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-29-2021_NICTD_mm-m+\cell02.tif'
+
+Entry: 320
+id: 199834124
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-29-2021_NICTD_mm-m+\cell03.tif'
+
+Entry: 321
+id: 607339921
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-29-2021_NICTD_mm-m+\cell04.tif'
+
+Entry: 322
+id: 543044983
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-29-2021_NICTD_mm-m+\cell05.tif'
+
+Entry: 323
+id: 162324692
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-29-2021_NICTD_mm-m+\cell06.tif'
+
+Entry: 324
+id: 5653068
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-29-2021_NICTD_mm-m+\cell07.tif'
+
+Entry: 325
+id: 771485147
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\10-29-2021_NICTD_mm-m+\cell08.tif'
+
+Entry: 326
+id: 344462411
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\11-08-2021_NICTD_mm-m+\cell01.tif'
+
+Entry: 327
+id: 780519652
+type: 'NICTD (mm-m+)'
+path: '.\NICTD (mm-m+)\11-08-2021_NICTD_mm-m+\cell02.tif'
+
+Entry: 328
+id: 557292680
+type: 'NICTD (m+-m+)'
+path: '.\NICTD (m+-m+)\11-15-2021_NICTD_m+-m+\cell01.tif'
+
+Entry: 329
+id: 850678902
+type: 'NICTD (m+-m+)'
+path: '.\NICTD (m+-m+)\11-19-2021_NICTD_m+-m+\cell01.tif'
+
+Entry: 330
+id: 558565491
+type: 'NICTD (m+-m+)'
+path: '.\NICTD (m+-m+)\11-19-2021_NICTD_m+-m+\cell02.tif'
+
+Entry: 331
+id: 901773664
+type: 'NICTD (m+-m+)'
+path: '.\NICTD (m+-m+)\11-19-2021_NICTD_m+-m+\cell03.tif'
+
+Entry: 332
+id: 419517704
+type: 'NICTD (m+-m+)'
+path: '.\NICTD (m+-m+)\11-19-2021_NICTD_m+-m+\cell04.tif'
+
+Entry: 333
+id: 358128352
+type: 'NICTD (m+-m+)'
+path: '.\NICTD (m+-m+)\11-19-2021_NICTD_m+-m+\cell05.tif'
+
+Entry: 334
+id: 488987517
+type: 'NICTD (m+-m+)'
+path: '.\NICTD (m+-m+)\11-22-2021_NICTD_m+-m+\cell01.tif'
+
+Entry: 335
+id: 255962141
+type: 'NICTD (m+-m+)'
+path: '.\NICTD (m+-m+)\11-22-2021_NICTD_m+-m+\cell02.tif'
+
+Entry: 336
+id: 929169268
+type: 'NICTD (m+-m+)'
+path: '.\NICTD (m+-m+)\11-22-2021_NICTD_m+-m+\cell03.tif'
+
+Entry: 337
+id: 466756814
+type: 'NICTD (m+-m+)'
+path: '.\NICTD (m+-m+)\11-22-2021_NICTD_m+-m+\cell04.tif'
+
+Entry: 338
+id: 254007850
+type: 'NICTD (m+-m+)'
+path: '.\NICTD (m+-m+)\11-22-2021_NICTD_m+-m+\cell05.tif'
+
